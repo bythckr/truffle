@@ -14,4 +14,9 @@ com.oracle.truffle.api.utilities
 com.oracle.truffle.api.vm
 com.oracle.truffle.object
 com.oracle.truffle.tck
-com.oracle.truffle.tools.debug.shell
+com.oracle.truffle.tutorial
+com.oracle.truffle.tutorial.background
+com.oracle.truffle.tutorial.embedding
+com.oracle.truffle.tutorial.graal
+com.oracle.truffle.tutorial.newlanguage
+com.oracle.truffle.tutorial.sulong
